@@ -1,5 +1,5 @@
 - 👋 Yoh! I’m Mwenecho J Harawa
 - 👀 I’m interested in Machine Learning, Web Development and Cyber Security
 - 🌱 I’m currently learning Python and AI
--  I’m looking to collaborate on Web and AI projects
+- 💻 I’m looking to collaborate on Web and AI projects
 - ⚡ Fun fact: I'm addicted to learning new concepts
